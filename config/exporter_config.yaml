@@ -2,7 +2,7 @@
 # This file specifies the paths, storage format, and topics to extract from the ROS bag.
 
 # Path to the input ROS2 bag file
-bag_path: "/path/to/your.bag"
+bag_path: "/path/to/bag/bag_0.db3"
 
 # Directory where the exported data will be saved
 output_dir: "/path/to/output_directory"
